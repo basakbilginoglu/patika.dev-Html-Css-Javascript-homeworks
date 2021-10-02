@@ -1,0 +1,49 @@
+
+
+.medium-header-align{
+   text-align: center;
+}
+body{
+   text-align: center;
+   list-style-position: inside;
+   background: #E9ECEF;
+}
+
+#h1{
+    color: #FF7777;
+}
+
+#medium-font-color{
+
+    color: #A2416B;
+}
+.about-us-h4-color{
+    color:#BECA5C;
+    text-align: left;
+}
+.about-us-p{
+ text-align: left;
+}
+
+#mainpage-h4{
+    color:#BECA5C;
+    text-align: center;
+}
+
+.paragraph{
+    text-align: center;
+}
+.li-align{
+    list-style-position: inside;
+    text-align: center;
+}
+
+ nav a{
+    margin-left: 10px;
+} 
+article ul li{
+    list-style-position: inside;
+}
+.button-style{
+    text-align: center;
+}
