@@ -1,1 +1,2 @@
-# patika.dev-html-css-homeworks
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
